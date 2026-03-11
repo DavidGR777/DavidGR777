@@ -1,11 +1,11 @@
 ![David Esteban Gonzalez_Banner](https://images.unsplash.com/photo-1581093803931-46e730e7622e?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aW5nZW5pZXIlQzMlQURhJTIwbWVjJUMzJUExbmljYXxlbnwwfHwwfHx8MA%3D%3D)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hello world! I'm David González</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='25' align="left"/><h1 align="left">Hello world! I'm David González</h1>
 Mechatronics Engineering passionate about robotics, automation and emerging technologies.
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am Mechatronics Engineering graduated at Pontificia Universidad Javeriana.\
@@ -14,11 +14,9 @@ Mechatronics Engineering passionate about robotics, automation and emerging tech
 💬 &nbsp;I am open to any kind of human learning.\
 ✉️ &nbsp;You can shoot me an email at desteban.gonzalezr@javeriana.edu.co or davidegonzalezrozo@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW92eWJoZXdmNWo4cjRkdm9rMXAzanNsNzN6ZGV0eWk0NHQ1OXg3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqW9dLVjQm3cs/giphy.gif" align="right"/>
+## 🛠 &nbsp;Tech Stacks
 
-### 🛠 &nbsp;Tech Stacks
-
-## &nbsp;Languajes
+### &nbsp;Languajes
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -29,7 +27,7 @@ Mechatronics Engineering passionate about robotics, automation and emerging tech
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
-## &nbsp;Computer Skills
+### &nbsp;Computer Skills
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)&nbsp;
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-red?style=for-the-badge&logo=dassaultsystemes&logoColor=white)&nbsp;
@@ -40,11 +38,11 @@ Mechatronics Engineering passionate about robotics, automation and emerging tech
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Altium%20Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)&nbsp;
 
-## &nbsp;Databases
+### &nbsp;Databases
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)&nbsp;
 
-### 🧰 &nbsp;Version Controll & Tools 
+### &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -52,7 +50,7 @@ Mechatronics Engineering passionate about robotics, automation and emerging tech
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/DavidGR777">
@@ -68,19 +66,19 @@ Mechatronics Engineering passionate about robotics, automation and emerging tech
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/david-gonz%C3%A1lez-rozo-441798351/">
 <img src="https://img.shields.io/badge/-David%20González%20Rozo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:davidegonzalezrozogmail.com"><img src="https://img.shields.io/badge/-guillermo.andres.aguilera-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:davidegonzalezrozogmail.com"><img src="https://img.shields.io/badge/-davidegonzalezrozo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:desteban.gonzalezr@javeriana.edu.co">
 <img src="https://img.shields.io/badge/-desteban.gonzalezr-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </p>
 
 
-### 🐍 &nbsp;That's How Commits move ...
+## 🐍 &nbsp;That's How Commits move ...
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI4bDJibDM0OTluMDhwcWNjbHQzcjB6NjUzcWxmdW1wZnFtZXJ5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZZl8MetzKTl5tLGEUI/giphy.gif" align="left" alt="this slowpoke moves"  width="500" alt="404 image"/>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdld296d3I1eHFlZGlkajU0dXNmM25pbGNoNTl5Y3FzNTFoenhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1AftraDoY3VJxFl4Fv/giphy.gif" align="right" alt="this slowpoke moves"  width="500" alt="404 image"/>
