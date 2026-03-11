@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581093803931-46e730e7622e?fm=jpg&q=60&w=3000&auto=format&fit=crop" width="600"/>
+<p align="left">
+  <img src="https://images.unsplash.com/photo-1581093803931-46e730e7622e?fm=jpg&q=60&w=3000&auto=format&fit=crop" width="500"/>
 </p>
 
 <img alt="wave" src="./assets/Hand%20Wave.gif" width="25" align="left"/>
@@ -84,6 +84,5 @@ Mechatronics Engineering student passionate about robotics, automation and emerg
 
 ## 🐍 &nbsp;That's How Commits move ...
 
-<img src="https://media.giphy.com/media/3o7bu6pixCiUyJnuE0/giphy.gif" align="left" alt="this slowpoke moves"  width="500" alt="404 image"/>
-<img src="https://i.redd.it/olaxa823wnh91.gif" align="right" alt="this slowpoke moves"  width="500" alt="404 image"/>
-
+<img src="https://media.giphy.com/media/3o7bu6pixCiUyJnuE0/giphy.gif" align="left" alt="this slowpoke moves"  width="400" alt="404 image"/>
+<img src="https://i.redd.it/olaxa823wnh91.gif" align="right" alt="this slow moves"  width="400" alt="404 image"/>
