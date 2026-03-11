@@ -16,7 +16,7 @@ Mechatronics Engineering student passionate about robotics, automation and emerg
 🌱 &nbsp;I am on track to learn more about software development, cloud microservices, cybersecurity, aerospace engineering and a lot more.\
 ✍️ &nbsp;In my free time, I enjoy playing volleyball, reading science fiction, staying up to date with discoveries in science, technology and engineering, and exploring the fields I want to specialize in.\
 💬 &nbsp;I am open to any kind of human learning.\
-✉️ &nbsp;You can shoot me an email at desteban.gonzalezr@javeriana.edu.co or davidegonzalezrozo@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at desteban.gonzalezr@javeriana.edu.co or davidegonzalezrozo@gmail.com! I'll try to respond as soon as I can.
 
 ## 🛠 &nbsp;Tech Stacks
 
