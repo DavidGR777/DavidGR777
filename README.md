@@ -84,6 +84,6 @@ Mechatronics Engineering student passionate about robotics, automation and emerg
 
 ## 🐍 &nbsp;That's How Commits move ...
 
-<img src="https://media.giphy.com/media/3o7bu6pixCiUyJnuE0/giphy.gif" align="left" alt="this slowpoke moves"  width="400" alt="404 image"/>
-<br><br><br><br><br><br><br><br>
-<img src="https://media.tenor.com/uoVp9y3FpOsAAAAM/snake-with-legs-snake.gif" align="right" alt="this slowpoke moves"  width="400" alt="404 image"/>
+<img src="https://media.giphy.com/media/3o7bu6pixCiUyJnuE0/giphy.gif" align="left" alt="this slowpoke moves"  width="350" alt="404 image"/>
+<br><br><br><br><br><br>
+<img src="https://media.tenor.com/uoVp9y3FpOsAAAAM/snake-with-legs-snake.gif" align="right" alt="this slowpoke moves"  width="350" alt="404 image"/>
