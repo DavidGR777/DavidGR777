@@ -1,7 +1,11 @@
-![David Esteban Gonzalez_Banner](https://images.unsplash.com/photo-1581093803931-46e730e7622e?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aW5nZW5pZXIlQzMlQURhJTIwbWVjJUMzJUExbmljYXxlbnwwfHwwfHx8MA%3D%3D)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581093803931-46e730e7622e?fm=jpg&q=60&w=3000&auto=format&fit=crop" width="600"/>
+</p>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='25' align="left"/><h1 align="left">Hello world! I'm David González</h1>
-Mechatronics Engineering passionate about robotics, automation and emerging technologies.
+<img alt="wave" src="./assets/Hand%20Wave.gif" width="25" align="left"/>
+<h1>Hello world! I'm David González</h1>
+
+Mechatronics Engineering student passionate about robotics, automation and emerging technologies.
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
@@ -80,6 +84,6 @@ Mechatronics Engineering passionate about robotics, automation and emerging tech
 
 ## 🐍 &nbsp;That's How Commits move ...
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI4bDJibDM0OTluMDhwcWNjbHQzcjB6NjUzcWxmdW1wZnFtZXJ5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZZl8MetzKTl5tLGEUI/giphy.gif" align="left" alt="this slowpoke moves"  width="500" alt="404 image"/>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdld296d3I1eHFlZGlkajU0dXNmM25pbGNoNTl5Y3FzNTFoenhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1AftraDoY3VJxFl4Fv/giphy.gif" align="right" alt="this slowpoke moves"  width="500" alt="404 image"/>
+<img src="https://media.giphy.com/media/3o7bu6pixCiUyJnuE0/giphy.gif" align="left" alt="this slowpoke moves"  width="500" alt="404 image"/>
+<img src="https://i.redd.it/olaxa823wnh91.gif" align="right" alt="this slowpoke moves"  width="500" alt="404 image"/>
 
